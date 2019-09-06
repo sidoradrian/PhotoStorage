@@ -12,6 +12,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 public class PhotoStorageApplication {
 
 	public static void main(String[] args) {
+		//adrian
 		SpringApplication.run(PhotoStorageApplication.class, args);
 	}
 
